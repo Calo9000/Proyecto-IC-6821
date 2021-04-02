@@ -1,1 +1,1 @@
-# Proyecto-IC-6821
+# Proyecto de Diseño de Software
